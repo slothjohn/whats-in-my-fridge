@@ -1,0 +1,26 @@
+{
+  "name": "whats-in-my-fridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slothjohn/whats-in-my-fridge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slothjohn/whats-in-my-fridge/issues"
+  },
+  "homepage": "https://github.com/slothjohn/whats-in-my-fridge#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^3.83.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
